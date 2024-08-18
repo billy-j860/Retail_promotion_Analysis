@@ -1,13 +1,14 @@
 # Retail_promotion_Analysis
 This project analyzes the effectiveness of promotional campaigns on retail sales across different stores and product families. Using a dataset that includes daily sales data, store information, product categories, and promotion details, we investigate how promotions impact sales performance.
-The dataset used in this project includes the following key information:
+
+### The dataset used in this project includes the following key information:
 - Date of sales
 - Store number
 - Product family
 - Sales amount
 - Number of items on promotion
   
-- ## Project Goals
+## Project Goals
 1. Evaluate the overall impact of promotions on sales
 2. Identify which product families benefit most from promotions
 3. Analyze how different stores respond to promotional activities
