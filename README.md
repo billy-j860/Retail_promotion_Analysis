@@ -1,5 +1,5 @@
 # Retail_promotion_Analysis
-This project analyzes the effectiveness of promotional campaigns on retail sales across different stores and product families. Using a dataset that includes daily sales data, store information, product categories, and promotion details, we investigate how promotions impact sales performance.
+This project analyzes the effectiveness of promotional campaigns on retail sales across different stores and product families. We investigate how promotions impact sales performance by using a dataset that includes daily sales data, store information, product categories, and promotion details.
 
 ### The dataset used in this project includes the following key information:
 - Date of sales
@@ -18,7 +18,7 @@ This project analyzes the effectiveness of promotional campaigns on retail sales
 https://www.kaggle.com/c/store-sales-time-series-forecasting/data?select=train.csv
 
 ## Methodology
-The analysis is conducted using Python, leveraging libraries such as pandas for data manipulation, matplotlib and seaborn for visualization, and scipy for statistical testing. Key steps include:
+The analysis uses Python, leveraging libraries such as pandas for data manipulation, matplotlib and seaborn for visualization, and scipy for statistical testing. Key steps include:
 - Exploratory Data Analysis (EDA)
 - Statistical comparison of promoted vs. non-promoted item sales
 - Time series analysis of sales trends
