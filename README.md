@@ -23,4 +23,9 @@ The analysis uses Python, leveraging libraries such as pandas for data manipulat
 - Statistical comparison of promoted vs. non-promoted item sales
 - Time series analysis of sales trends
 - Store and product family comparative analysis
-- ## Key Findings
+## Key Findings
+- There are seasonal peaks during ceratin months like December suggesting holiday shopping influence
+- weekends(Sartuday and Sunday) have significantly higher sales compared to week days (Monday to Friday) indicating customers preference to shop more during the weekend
+- Some stores consistently experience higher sales than others which might be influenced by factors like foot traffic or area demographics
+- Food products sell more than products in other categories like sanitary and clothing and home appliances showing a higher preference of products of certain category
+- The scatter plot indicates that higher numbers of items on promotion correlate with increased sales, suggesting that promotions effectively drive sales volume. However the correlation is weak at 0.09
